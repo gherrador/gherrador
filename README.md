@@ -4,7 +4,7 @@ I'm Industrial Engineer and Semi-Senior Full Stack Developer, specialized in MER
 
 Experienced in all type of Industries as an Industrial Engineer and Freelance as Developer.
 
-Well-versed in numerous programming languages including JavaScript, Typescript, React Js,Next Js, Node Js, C#, Python. 
+Well-versed in numerous programming languages including JavaScript, Typescript, React Js,Next Js, Node Js, C#, Python, Rust. 
 
 Related to database, I work with Sql and NoSql databases.
 
